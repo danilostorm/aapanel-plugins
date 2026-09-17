@@ -1,0 +1,15 @@
+{
+  "name": "storm_analytics",
+  "title": "Storm Analytics",
+  "ps": "Self-hosted website analytics with local data, realtime visitors, Web Vitals, UTM and heatmaps.",
+  "description": "Open-source third-party analytics plugin for aaPanel. Data stays on your server.",
+  "version": "0.1.0",
+  "versions": "0.1.0",
+  "author": "Danilo / Community",
+  "home": "https://github.com/danilostorm/aapanel-plugins",
+  "type": 10,
+  "sort": 0,
+  "shell": "install.sh",
+  "checks": "/www/server/panel/plugin/storm_analytics/storm_analytics_main.py",
+  "api": false
+}
